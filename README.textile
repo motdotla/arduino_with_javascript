@@ -1,0 +1,7 @@
+h1. Arduino with Javascript
+
+p. Presentation to Riverside JS on using javascript with Arduino.
+
+* Upload du.ino to your board
+* node duino_express.js
+* Visit localhost:3000
